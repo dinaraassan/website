@@ -1,0 +1,23 @@
+li {
+	list-style-type: circle;
+}
+.important {
+	font-weight: bold;
+	color: salmon;
+	text-decoration: underline;
+	list-style-type: square;
+}
+.finished {
+	color: silver;
+	text-decoration: line-through;
+}
+
+#first {
+	font-size: 30px;
+}
+#second {
+	font-size: 25px;
+}
+#third {
+	font-size: 20px;
+}
